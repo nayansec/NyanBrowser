@@ -1,2 +1,3 @@
 # NyanBrowser
-A open source browser
+polish open source browser made in VB.net
+Password to archive: 123
